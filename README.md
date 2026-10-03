@@ -2,7 +2,7 @@
 
 # Featherweight
 
-Featherweight makes Super Smash Bros. Melee custom skins (and stages) lighter, so 4-player matches don't run out of memory and freeze while loading.
+Featherweight makes Super Smash Bros. Melee custom skins (and stages) lighter, so doubles and teams matches don't run out of memory and freeze while loading.
 
 ## Download
 

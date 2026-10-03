@@ -12,7 +12,7 @@ Featherweight makes Super Smash Bros. Melee custom skins (and stages) lighter, s
 
 Both are always the newest version. The `.exe` is the whole program on its own; the `.zip` has the same program with its readme.
 
-> Don't use the green **Code → Download ZIP** button or **Source code (zip)**: those only contain this page's text and logo, not the program.
+The green **Code → Download ZIP** button works too: it has `Featherweight.exe` in it, ready to run.
 
 - No install needed. Just run `Featherweight.exe` (Windows 10/11, 64-bit).
 - The first time, Windows may say **"Windows protected your PC"** (unknown publisher). Featherweight is a free program without a paid signing certificate. Press **More info**, then **Run anyway**.

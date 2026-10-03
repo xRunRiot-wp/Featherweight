@@ -8,7 +8,9 @@ Featherweight makes Super Smash Bros. Melee custom skins (and stages) lighter, s
 
 ### ⬇️ **[Download Featherweight.exe](https://github.com/xRunRiot-wp/Featherweight/releases/latest/download/Featherweight.exe)**
 
-That's the whole program, always the newest version. (Or get the `.zip` with the readme from the [release page](../../releases/latest).)
+### 🗜️ **[Download Featherweight.zip](https://github.com/xRunRiot-wp/Featherweight/releases/latest/download/Featherweight.zip)** (the program + readme + credits)
+
+Both are always the newest version. The `.exe` is the whole program on its own; the `.zip` has the same program with its readme.
 
 > Don't use the green **Code → Download ZIP** button or **Source code (zip)**: those only contain this page's text and logo, not the program.
 

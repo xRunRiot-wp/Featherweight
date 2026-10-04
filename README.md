@@ -40,6 +40,6 @@ Reports here are public, so don't include anything private. Featherweight only i
 
 ## Credits
 
-Made with [HSDRaw (HSDLib)](https://github.com/Ploaj/HSDLib) by Ploaj (MIT) and [SixLabors.ImageSharp](https://github.com/SixLabors/ImageSharp) (Six Labors Split License, Apache 2.0 terms). Full notices are in `THIRD-PARTY.txt` inside the download.
+Made with [HSDRaw (HSDLib)](https://github.com/Ploaj/HSDLib) by Ploaj (MIT) and [SixLabors.ImageSharp](https://github.com/SixLabors/ImageSharp) (Six Labors Split License, Apache 2.0 terms). HSDRaw's MIT licence notice is at the end of `README.txt` in the download.
 
 Super Smash Bros. Melee is a trademark of Nintendo. Featherweight is a free fan tool, not made or endorsed by Nintendo, comes with no warranty, and does not include any game files.

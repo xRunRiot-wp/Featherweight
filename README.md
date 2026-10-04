@@ -21,12 +21,12 @@ The green **Code → Download ZIP** button works too: it has `Featherweight.exe`
 ## How to use
 
 1. Drop in a Melee ISO, one or more skin `.dat` files, or a folder of skins.
-2. Pick a strength and check the before/after previews:
+2. Leave it on **Automatic (recommended)**: for each skin or stage it starts gentle and only steps up until that file fits. Or pick a strength yourself, for everything or just one row (each row has its own Quality picker):
    - **Cleanup**: only trims oversized images.
-   - **Solid** (recommended): just enough for each skin to fit.
+   - **Solid**: just enough for each skin to fit.
    - **Aggressive**: shrinks everything it can.
    - **Rough** / **Extreme**: also simplifies the 3D model, for the few skins nothing else can fit. Colours and outlines are kept.
-3. Press **Make lighter copy**.
+3. Check the before/after previews and press **Make lighter copy**.
 
 It always saves a **new** copy. Your original ISO or skins are never changed. Images are made smaller and 3D models are stored more compactly; bones, weights and animations are never changed.
 

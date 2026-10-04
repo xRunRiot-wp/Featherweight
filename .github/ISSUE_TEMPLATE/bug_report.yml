@@ -1,0 +1,42 @@
+name: Bug report
+description: Something went wrong with Featherweight or a skin it made
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting! Reports are public, so don't include anything private.
+        Tip: Featherweight's **Report a problem...** button fills most of this in for you.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: e.g. froze while loading a doubles match on Pokemon Stadium, a skin looked blurry, Featherweight showed an error...
+    validations:
+      required: true
+  - type: textarea
+    id: skins
+    attributes:
+      label: Which skins and stage? (optional)
+      description: File names (like PlFxNr.dat) or skin names, and the stage.
+  - type: dropdown
+    id: players
+    attributes:
+      label: How many players?
+      options: ["Not sure", "1 player", "2 players", "3 players", "Doubles / teams"]
+  - type: dropdown
+    id: strength
+    attributes:
+      label: Which strength did you use?
+      options: ["Not sure", "Cleanup", "Solid", "Aggressive", "Rough", "Extreme"]
+  - type: input
+    id: version
+    attributes:
+      label: Featherweight version (optional)
+      description: Shown in About, e.g. 2.2.3
+  - type: textarea
+    id: log
+    attributes:
+      label: Dolphin log (optional)
+      description: The last part of dolphin.log (Slippi Dolphin > View > Show Log Configuration > Write to File; the file is in Dolphin's User\Logs folder). Remove anything private.
+      render: shell

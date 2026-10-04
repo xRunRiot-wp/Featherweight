@@ -10,7 +10,8 @@ How to use
 - The first time, Windows may say "Windows protected your PC" (unknown publisher), because Featherweight is a free
   program without a paid signing certificate. Press "More info", then "Run anyway".
 - Drop in a Melee ISO, one or more skin .dat files, or a folder of skins.
-- Pick Cleanup, Solid (recommended) or Aggressive, check the before/after previews, and press "Make lighter copy".
+- Leave it on "Automatic (recommended)" (or pick a quality, for everything or per skin/stage), check the
+  before/after previews, and press "Make lighter copy".
 - It always saves a NEW copy. Your original ISO or skins are never changed.
 
 Updates

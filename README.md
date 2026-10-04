@@ -34,6 +34,8 @@ It always saves a **new** copy. Your original ISO or skins are never changed. Im
 
 In Featherweight, press **Report a problem...**. It shows you the whole report first, then **Copy it and open the bug page** copies it and opens this page's [Issues](../../issues/new). Give it a short title and paste the report into the big box.
 
+If the game froze or crashed, you can add your Dolphin log: paste it into the **Dolphin log** box in the report window, or press **Choose log file...** and pick it yourself (in Slippi Dolphin, turn it on under **View > Show Log Configuration > Write to File**; the file is `dolphin.log` in Dolphin's `User\Logs` folder). Only the last 300 lines are added, with your user name and folders removed.
+
 Reports here are public, so don't include anything private. Featherweight only includes file names (never your folders or user name), and you can untick anything before copying.
 
 ## Credits
